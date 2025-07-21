@@ -3,8 +3,6 @@ import pandas as pd
 import matplotlib as plt
 import math
 
-from urllib3.util.request import set_file_position
-
 st.title("Mortgage Payment Calculator")
 
 
